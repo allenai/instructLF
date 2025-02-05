@@ -1,0 +1,4 @@
+alfworld/compile_data/*
+!alfworld/compile_data/.gitkeep
+.bills/data/*
+!.bills/data/.gitkeep
