@@ -1,4 +1,4 @@
-# Goal-conditioned Latent Factor Discovery without Task Supervision
+### Goal-conditioned Latent Factor Discovery without Task Supervision
 
 ---
 <img src="images/instruct_lf.PNG" alt="drawing" style="width:700px;"/>
