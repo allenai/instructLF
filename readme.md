@@ -10,7 +10,7 @@ Steps to run:
   - The concept annotation process is parallized thanks to [Dongfu Jiang](https://jdf-prog.github.io/)'s [framework](https://github.com/jdf-prog/LLM-Engines)
 - Run ```train_nli.py``` to train compatibility estimation model
 - Run ```fit_corex.py``` to learn latent factor model
-- Run ```evaluate.py``` to get evaluation results (dataset/user-case specific, really)
+- Run ```evaluate.py``` to get evaluation results (dataset/use-case specific, really)
 - Questions about environment? See requirements.md
 
 Using your own dataset?
